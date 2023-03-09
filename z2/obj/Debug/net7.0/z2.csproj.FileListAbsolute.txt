@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/dzc#/c-dz/z2/bin/Debug/net7.0/z2
+/home/user/Рабочий стол/dzc#/c-dz/z2/bin/Debug/net7.0/z2.deps.json
+/home/user/Рабочий стол/dzc#/c-dz/z2/bin/Debug/net7.0/z2.runtimeconfig.json
+/home/user/Рабочий стол/dzc#/c-dz/z2/bin/Debug/net7.0/z2.dll
+/home/user/Рабочий стол/dzc#/c-dz/z2/bin/Debug/net7.0/z2.pdb
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.AssemblyInfo.cs
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.dll
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/refint/z2.dll
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.pdb
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/z2.genruntimeconfig.cache
+/home/user/Рабочий стол/dzc#/c-dz/z2/obj/Debug/net7.0/ref/z2.dll
